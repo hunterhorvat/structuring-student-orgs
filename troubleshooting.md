@@ -21,4 +21,4 @@ Contact the staff or faculty advisor of the organization when you cannot answer 
 - Add the naming pattern to the board's training material.
 - Review new file names during regular board meetings.
 - Record approved type codes in one shared reference document.
-- Archive files deliberately rather than using `06_archive` as a miscellaneous folder.
+- Archive files deliberately rather than using `00_archive` as a miscellaneous folder.
