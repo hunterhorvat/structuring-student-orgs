@@ -48,7 +48,7 @@ Use this sequence:
 YYYY-YY_TYPE-IDENTIFIER.ext 
 ```
 
-Each segment has one purpose. 
+Each segment has a purpose that will help viewers determine the contents of the file without opening it.  
 
 | Segment | Meaning | Example |
 | ------- | ------- | ------- |
