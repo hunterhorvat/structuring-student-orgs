@@ -9,3 +9,5 @@
 - The storage service's official documentation (Microsoft OneDrive or Google Drive support)
 
 This fictional student organization example draws on general principles of file organization, data management, plain language, and user-centered documentation. 
+
+The folder structures shown in the screenshots are examples created within my personal Microsoft OneDrive and Google Drive accounts. 
