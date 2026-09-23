@@ -28,10 +28,10 @@ After using this documentation, you should be able to:
 
 ## **Documentation**
 
-- [Understand the system](/overview.md)
-- [Set up and apply the system](/procedure.md)
-- [Resolve common problems](/troubleshooting.md)
-- [Review sources and acknowledgments](/sources.md)
+- [Understand the system](docs/overview.md)
+- [Set up and apply the system](docs/procedure.md)
+- [Resolve common problems](docs/troubleshooting.md)
+- [Review sources and acknowledgments](docs/sources.md)
 
 ## **Quick example**
 
