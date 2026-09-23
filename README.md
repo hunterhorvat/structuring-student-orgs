@@ -12,6 +12,7 @@ Use this guide if you are a graduate or undergraduate member or staff/faculty ad
 
 - Is responsible for managing shared files
 - Works with collaborative files in a shared cloud folder
+- Utilizes Microsoft OneDrive or Google Drive for cloud storage
 - Understands ordinary files and folders
 - May not have experience with formal records management
 - Needs to locate, identify, and exchange files quickly 
@@ -20,10 +21,10 @@ Use this guide if you are a graduate or undergraduate member or staff/faculty ad
 
 After using this documentation, you should be able to: 
 
-- Explain the logic of the organization’s folder and file-naming system. 
-- Rename existing files consistently. 
-- Assign file access permissions. 
-- Appropriately archive outdated materials. 
+- Explain the logic of the organization’s folder and file-naming system 
+- Rename existing files consistently 
+- Assign file access permissions 
+- Appropriately archive outdated materials 
 
 ## **Documentation**
 
