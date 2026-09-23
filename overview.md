@@ -19,13 +19,13 @@ A file name functions as a compact technical description. It should give collabo
 The system separates files based on executive board functions. 
 
 ```text
-Cool-Student-Org_2026-27/
-├── 01_events/
-├── 02_meetings/
-├── 03_financials/
-├── 04_marketing/
-├── 05_membership/
-└── 06_archive/
+Cool-Student-Org_2026-27
+├── 01_events
+├── 02_meetings
+├── 03_financials
+├── 04_marketing
+├── 05_membership
+└── 06_archive
 ```
 
 The numeric prefixes maintain the same order across computers and cloud platforms. 
@@ -61,4 +61,5 @@ Each segment has one purpose.
 - `FINS`: financials
 - `MKTG`: marketing
 - `MEMB`: membership
-- `ARCH`: archive 
+
+> Note: Archived files do not need to be renamed individually and thus do not need a controlled document-type code. 
