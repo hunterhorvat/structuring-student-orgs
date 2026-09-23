@@ -41,7 +41,7 @@ Instead of this unclear name:
 dues.xlsx
 ```
 
-use this structured name: 
+Use this structured name: 
 ```text
 2026-27_FINS_dues-tracking.xlsx
 ```
