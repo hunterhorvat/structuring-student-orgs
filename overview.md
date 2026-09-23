@@ -20,24 +20,25 @@ The system separates files based on executive board functions.
 
 ```text
 Cool-Student-Org_2026-27
+00_archive
 ├── 01_events
 ├── 02_meetings
 ├── 03_financials
 ├── 04_marketing
-├── 05_membership
-└── 06_archive
+└── 05_membership
 ```
+> Note: The `00_archive` folder should always remain separate from the other numbered folders. 
 
 The numeric prefixes maintain the same order across computers and cloud platforms. 
 
 | Folder | Store here | Do not store here |
 | ------ | -----------| ------------------|
+| `00_archive` | retained material from previous academic years | active working files |
 | `01_events` | event plans, vendor lists, event task spreadsheets | budget planning | 
 | `02_meetings` | attendance records, meeting minutes | transition documents | 
 | `03_financials` | dues tracking spreadsheets, budget planning, expense reports | meeting attendance |
 | `04_marketing` | logos, branding guidelines | event plans |
 | `05_membership` | bylaws, handbooks, transition documents | branding guidelines |
-| `06_archive` | retained material from previous academic years | active working files |
 
 ## **File-name pattern** 
 
