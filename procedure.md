@@ -16,10 +16,17 @@ Follow this procedure to create the standard folder structure and rename a set o
 ### Part 1: Create the folder structure 
 1. Open the approved shared storage location.
 2. Create one top-level main folder using the organization's name and the academic year. 
-###### *Example:* `Cool-Student-Org_2026-2027`
-4. The first time you establish this folder structure, create an archive folder in the same location as the `Cool-Student-Org_2026-2027` 
-###### *Example:* `00_archive` 
-6. Inside the main folder, create the following folders exactly as shown:
+##### Example: `Cool-Student-Org_2026-2027`
+3. The first time you establish this folder structure, create an archive folder in the same location as the `Cool-Student-Org_2026-2027` 
+##### Example: `00_archive` 
+
+###### *Microsoft OneDrive example:*
+<img width="319" height="316" alt="microsoft example1" src="https://github.com/user-attachments/assets/52e6d59f-7653-431d-8d7e-461b4d1e1ae3" />
+
+###### *Google Drive example:*
+<img width="666" height="405" alt="google example1" src="https://github.com/user-attachments/assets/e52c3fdd-e72c-42d6-8284-fabdf3579daa" />
+
+4. Inside the main folder, create the following folders exactly as shown:
 
     ```text
     01_events
@@ -29,7 +36,7 @@ Follow this procedure to create the standard folder structure and rename a set o
     05_membership
     ```
 
-> Note: Leadership should create only one `00_archive` folder and use it to store previous materials from year to year. To maintain the organization system, a new archive folder should never be created.
+> Note: Leadership should create only one `00_archive` folder and use it to store previous materials from year to year. To maintain the organization system, a new archive folder should never be created, and the `00_archive` folder should never be stored in folders `01` through `05`.
 
 5. Check the folder list. The folders should appear in numeric order. 
 
@@ -40,8 +47,6 @@ Follow this procedure to create the standard folder structure and rename a set o
 
 ###### *Google Drive example:*
 <img width="1266" height="474" alt="google example2" src="https://github.com/user-attachments/assets/41e672c9-6b96-4f4e-8da7-509bbf801ebb" />
-
-
 
 ### Part 2: Classify each file
 1. Select one active file. 
@@ -90,7 +95,7 @@ Follow this procedure to create the standard folder structure and rename a set o
 ### Part 5: Archive material 
 1. When leadership changes at the end of each school year, ensure that all materials from the previous year are properly labelled and organized in the appropriate folder. 
 2. Click and drag the `Cool-Student-Org-2026-2027` folder into the `00_archive` folder. 
-3. Repeat steps in part 1 for the upcoming school year.
+3. Repeat steps in part 1 to create new folders for the upcoming academic year.
 
 ### Completion check
 The procedure is complete when active files have consistent names, appear in the appropriate folders, open correctly, and can be interpreted by another member. 
