@@ -35,6 +35,14 @@ Follow this procedure to create the standard folder structure and rename a set o
 
 **Expected result:** `01_events` should appear first and `05_membership` should appear last.
 
+###### *Microsoft OneDrive example:*
+<img width="626" height="517" alt="microsoft example2" src="https://github.com/user-attachments/assets/e40fa24b-2392-4205-bc24-37e0b723056f" />
+
+###### *Google Drive example:*
+<img width="1266" height="474" alt="google example2" src="https://github.com/user-attachments/assets/41e672c9-6b96-4f4e-8da7-509bbf801ebb" />
+
+
+
 ### Part 2: Classify each file
 1. Select one active file. 
 2. Determine the file's primary function by asking: "What role does this file perform now?" 
