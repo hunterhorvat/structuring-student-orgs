@@ -32,6 +32,7 @@ Follow this procedure to create the standard folder structure and rename a set o
 > Note: Leadership should create only one `00_archive` folder and use it to store previous materials from year to year. To maintain the organization system, a new archive folder should never be created.
 
 5. Check the folder list. The folders should appear in numeric order. 
+
 **Expected result:** `01_events` should appear first and `05_membership` should appear last.
 
 ### Part 2: Classify each file
