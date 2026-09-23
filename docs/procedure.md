@@ -20,11 +20,13 @@ Follow this procedure to create the standard folder structure and rename a set o
 3. The first time you establish this folder structure, create an archive folder in the same location as the `Cool-Student-Org_2026-2027` 
 ##### Example: `00_archive` 
 
-###### *Microsoft OneDrive example:*
 <img width="319" height="316" alt="microsoft example1" src="https://github.com/user-attachments/assets/52e6d59f-7653-431d-8d7e-461b4d1e1ae3" />
 
-###### *Google Drive example:*
+###### *Image description: An example of the main folders in Microsoft OneDrive*
+
 <img width="666" height="405" alt="google example1" src="https://github.com/user-attachments/assets/e52c3fdd-e72c-42d6-8284-fabdf3579daa" />
+
+###### *Image description: An example of the main folders in Google Drive*
 
 4. Inside the main folder, create the following folders exactly as shown:
 
@@ -42,11 +44,13 @@ Follow this procedure to create the standard folder structure and rename a set o
 
 **Expected result:** `01_events` should appear first and `05_membership` should appear last.
 
-###### *Microsoft OneDrive example:*
 <img width="626" height="517" alt="microsoft example2" src="https://github.com/user-attachments/assets/e40fa24b-2392-4205-bc24-37e0b723056f" />
 
-###### *Google Drive example:*
+###### *Image description: An example of the five subfolders in Microsoft OneDrive*
+
 <img width="1266" height="474" alt="google example2" src="https://github.com/user-attachments/assets/41e672c9-6b96-4f4e-8da7-509bbf801ebb" />
+
+###### *Image description: An example of the five subfolders in Google Drive*
 
 ### Part 2: Classify each file
 1. Select one active file. 
