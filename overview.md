@@ -57,6 +57,7 @@ Each segment has one purpose.
 | `IDENTIFIER` | short content description | `dues-tracking` |
 
 ### Controlled document-type codes
+> Note: Document-type codes should match the folder they are placed in and be present in each individual file name.
 - `EVTS`: events 
 - `MTGS`: meetings
 - `FINS`: financials
