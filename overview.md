@@ -19,8 +19,8 @@ A file name functions as a compact technical description. It should give collabo
 The system separates files based on executive board functions. 
 
 ```text
-Cool-Student-Org_2026-27
 00_archive
+Cool-Student-Org_2026-27
 ├── 01_events
 ├── 02_meetings
 ├── 03_financials
